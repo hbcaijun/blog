@@ -1,0 +1,8 @@
+rss: atom.xml
+fancybox: true
+favicon: favicon.png
+fold: true  # Whether to fold all the notebooks initially
+hard_name: Hard  # Notebook name of posts without categories variables
+soft_name: Soft  # Notebook name of posts without categories variables
+book_name: Book  # Notebook name of posts without categories variables
+google_analytics:
